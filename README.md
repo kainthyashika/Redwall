@@ -13,7 +13,7 @@ Designed for researchers, cybersecurity students, and terminal lovers.
 - Zero Trust CLI simulation
 - Lightweight .deb installer for Linux
 - Fast, offline, and secure
-- Built with love by *Yashika Kainth*
+- Built with love by *Yashika Kainth*.
 
 ---
 
